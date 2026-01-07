@@ -7,3 +7,6 @@ Section: W
 Semester: Fall 2025-26.
 <br>
 <b> Faculty: NYME AHMED </b>
+
+<h6> American International University - Bangladesh (AIUB)
+</h6>
