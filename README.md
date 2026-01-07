@@ -8,5 +8,9 @@ Semester: Fall 2025-26.
 <br>
 <b> Faculty: NYME AHMED </b>
 
+<i> 
+Disclaimer: This file is only processed by a person during the learning period. There are some minor mistakes here. You can use this file at your own risk or as a reference.
+</i>
+
 <h6> American International University - Bangladesh (AIUB)
 </h6>
