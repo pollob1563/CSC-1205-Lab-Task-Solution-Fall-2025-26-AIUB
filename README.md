@@ -1,6 +1,9 @@
 # CSC-1205-Lab-Task-Solution-Fall-2025-26-AIUB
 
 There are only solutuins to the lab task by Prosenjit Datta (@pollob1563)
+<br>
 Section: W
+<br>
 Semester: Fall 2025-26.
-Faculty: NYME AHMED
+<br>
+<b> Faculty: NYME AHMED </b>
